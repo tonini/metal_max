@@ -2,7 +2,7 @@
 
 > StarCraft 2 Streaming Overlay
 
-`Metal Max` is an Starcraft2 overlay for streaming purposes, it's free to use and extendable.
+`Metal Max` is an Starcraft 2 overlay for streaming purposes, it's free to use and extendable.
 
 ## Content
 
