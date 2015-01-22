@@ -11,9 +11,27 @@
 * [StarCraft2 Ingame Overlay](assets/metal_max_overlay_INGAME_1920x1080.png)
 * [Outgame Overlay With 3 Frames](assets/metal_max_3_frame_overlay_OUTGAME_1920x1080.png)
 * [Outgame Overlay With 2 Frames](assets/metal_max_2_frame_overlay_OUTGAME_1920x1080.png)
-* [A Background](assets/metal_max_background_1920x1080.png)
+* [Background](assets/metal_max_background_1920x1080.png)
 
 Download Version 1.0.0 [Here](https://github.com/tonini/metal_max/archive/v1.0.0.zip)
+
+## Preview
+
+### Ingame Overlay
+
+![StarCraft2 Ingame Overlay](assets/metal_max_overlay_INGAME_1920x1080.png)
+
+### Outgame Overlay With 3 Frames
+
+![Outgame Overlay With 3 Frames](assets/metal_max_3_frame_overlay_OUTGAME_1920x1080.png)
+
+### Outgame Overlay With 3 Frames
+
+![Outgame Overlay With 2 Frames](assets/metal_max_2_frame_overlay_OUTGAME_1920x1080.png)
+
+### Background Overlay
+
+![Background](assets/metal_max_background_1920x1080.png)
 
 ## Feedback
 
